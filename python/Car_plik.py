@@ -7,3 +7,4 @@ class Car:
 
     def wyswietl_info(self):
         print(f"Samochód: {self.marka}  {self.model}  {self.typ},  Cena za dzień: {self.cena} zł")
+f

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wypozyczalnia_samochodow_main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273ce01420eea412f4ae63623656a42ad6c8b62d")]
 [assembly: System.Reflection.AssemblyProductAttribute("wypozyczalnia_samochodow_main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wypozyczalnia_samochodow_main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

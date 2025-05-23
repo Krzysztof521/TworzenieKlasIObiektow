@@ -17,4 +17,4 @@ public class Customer
     {
         Console.WriteLine($"Klient: {Imie} {Nazwisko}, {Email}");
     }
-}
+}f

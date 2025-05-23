@@ -25,7 +25,7 @@ class Program
         rental1.wyswietl_szczegoly_wypozyczenia();
         rental2.wyswietl_szczegoly_wypozyczenia();  
         rental3.wyswietl_szczegoly_wypozyczenia(); 
-
+f
 
     }
 }

@@ -31,4 +31,4 @@ public class Rental
         Console.WriteLine($"Koszt całkowity: {wyliczenie_kosztu()} zł");
         Console.WriteLine("----");
     }
-}
+}f

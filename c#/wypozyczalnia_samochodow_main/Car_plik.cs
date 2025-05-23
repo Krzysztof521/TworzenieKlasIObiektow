@@ -19,4 +19,4 @@ public class Car
         Console.WriteLine($"Samochód: {Marka}  {Model}  {Typ},  Cena za dzień: {Cena} zł");
     }
 
-}f
+}

@@ -6,4 +6,3 @@ class Customer:
 
     def klient(self):
         print(f"Klient: {self.imie} {self.nazwisko}, {self.email}")
-f

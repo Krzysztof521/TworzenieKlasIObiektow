@@ -17,4 +17,4 @@ class Rental:
         print(f"Liczba dni: {self.dni}")
         print(f"Koszt całkowity: {self.wyliczenie_kosztu():.2f} zł")
         print("----")
-        f
+        

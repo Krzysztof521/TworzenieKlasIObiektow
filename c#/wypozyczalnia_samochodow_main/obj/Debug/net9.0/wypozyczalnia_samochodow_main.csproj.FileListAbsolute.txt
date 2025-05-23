@@ -1,0 +1,14 @@
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.AssemblyInfoInputs.cache
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.AssemblyInfo.cs
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.csproj.CoreCompileInputs.cache
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/bin/Debug/net9.0/wypozyczalnia_samochodow_main
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/bin/Debug/net9.0/wypozyczalnia_samochodow_main.deps.json
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/bin/Debug/net9.0/wypozyczalnia_samochodow_main.runtimeconfig.json
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/bin/Debug/net9.0/wypozyczalnia_samochodow_main.dll
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/bin/Debug/net9.0/wypozyczalnia_samochodow_main.pdb
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.dll
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/refint/wypozyczalnia_samochodow_main.dll
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.pdb
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/wypozyczalnia_samochodow_main.genruntimeconfig.cache
+/Users/mydlo232/Studia WSB/GIT/24.05.2025/c#/wypozyczalnia_samochodow_main/obj/Debug/net9.0/ref/wypozyczalnia_samochodow_main.dll
